@@ -1,0 +1,17 @@
+SCREENDEMO (1) - Simple screen cast tool
+========================================
+
+## SYNOPSIS
+
+`screendemo` <start>
+
+`screendemo` <stop>
+
+## DESCRIPTION
+
+Launches the screen cast tool `byzanz` and the key displayer `screenkey` to cover
+the current terminal window.
+
+## AUTHOR
+
+diacus.magnuz@gmail.com
